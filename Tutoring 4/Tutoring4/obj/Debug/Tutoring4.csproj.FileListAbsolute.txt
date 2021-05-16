@@ -1,0 +1,10 @@
+C:\Users\eojee\source\repos\Tutoring4\Tutoring4\bin\Debug\Tutoring4.exe.config
+C:\Users\eojee\source\repos\Tutoring4\Tutoring4\bin\Debug\Tutoring4.exe
+C:\Users\eojee\source\repos\Tutoring4\Tutoring4\bin\Debug\Tutoring4.pdb
+C:\Users\eojee\source\repos\Tutoring4\Tutoring4\obj\Debug\Tutoring4.csprojAssemblyReference.cache
+C:\Users\eojee\source\repos\Tutoring4\Tutoring4\obj\Debug\Tutoring4.Form1.resources
+C:\Users\eojee\source\repos\Tutoring4\Tutoring4\obj\Debug\Tutoring4.Properties.Resources.resources
+C:\Users\eojee\source\repos\Tutoring4\Tutoring4\obj\Debug\Tutoring4.csproj.GenerateResource.cache
+C:\Users\eojee\source\repos\Tutoring4\Tutoring4\obj\Debug\Tutoring4.csproj.CoreCompileInputs.cache
+C:\Users\eojee\source\repos\Tutoring4\Tutoring4\obj\Debug\Tutoring4.exe
+C:\Users\eojee\source\repos\Tutoring4\Tutoring4\obj\Debug\Tutoring4.pdb
